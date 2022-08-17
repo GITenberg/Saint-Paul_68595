@@ -1,5 +1,8 @@
 _repo: Saint-Paul_68595
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68595-h/images/cover.jpg
 creator:
   author:
     agent_name: Baumann, Emile
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/%C3%89mile_Baumann_(%C3%A9crivain)
     - https://en.wikipedia.org/wiki/%C3%89mile_Baumann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68595#Saint-Paul
 gutenberg_issued: '2022-07-23'
 identifiers:
   gutenberg: '68595'
